@@ -18,5 +18,5 @@ The website's pages are based on the [default.html](https://github.com/NourAdib/
 
 #### Jekyll:
 1. Jekyll was used to handle and generate the HTML files. This was done by leaving Jekyll liquid tags in the HTML template code and then specifying the content that should replace them when creating the index.html files as in the [About](https://nouradib.github.io/about/) and [Blog](https://nouradib.github.io/blog/) sections.
-2. Jekyll also usese the [congif.yml](https://github.com/NourAdib/NourAdib.github.io/blob/main/_config.yml) file to generate the permalinks for the blog posts.
+2. Jekyll also uses the [congif.yml](https://github.com/NourAdib/NourAdib.github.io/blob/main/_config.yml) file to generate the permalinks for the blog posts.
 3. Jekyll also stores the files for the blog posts in the [posts](https://github.com/NourAdib/NourAdib.github.io/tree/main/_posts) folder.
